@@ -74,7 +74,7 @@ Full Name: TURATSINZE Toussaint
 
 GitHub Username: ngoga905
 
-GitHub Profile: https://ngoga905.github.io/toussaint.github.com/
+GitHub Profile: [https://github.com/ngoga905]
 
 **##Collaborator**
 
@@ -87,5 +87,6 @@ GitHub Profile: https://github.com/femanuel1
 Role: Collaborated on reviewing and updating the “What Clients Say” section on the Services page.
 
 **Project Link**
+
 Project Link:[https://ngoga905.github.io/toussaint.github.com/]
 
