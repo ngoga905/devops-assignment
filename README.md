@@ -69,12 +69,15 @@ The original source code and documentation are released into the public domain u
 ## Contributors
 
 Project Owner and Developer
+
 Full Name: TURATSINZE Toussaint
 
 GitHub Username: ngoga905
+
 GitHub Profile: https://ngoga905.github.io/toussaint.github.com/
 
 **##Collaborator**
+
 Full Name: MFITUMUKIZA Emmanuel
 
 GitHub Username: femanuel1
